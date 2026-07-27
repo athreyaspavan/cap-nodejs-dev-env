@@ -55,7 +55,8 @@ button on this repo's page, and create a Codespace based upon it:
 Once a Codespace is launched, you'll find yourself in a VS Code based environment
 in the cloud, hosted by GitHub.
 
-> [!TIP] GitHub [Codespaces](https://docs.github.com/en/codespaces) start to
+> [!TIP]
+> GitHub [Codespaces](https://docs.github.com/en/codespaces) start to
 > incur storage charges after a certain amount of time. Be sure to manage your
 > Codespaces appropriately to avoid unncessary fees. See the [GitHub Codespaces
 > billing](https://docs.github.com/en/billing/concepts/product-billing/github-codespaces)
