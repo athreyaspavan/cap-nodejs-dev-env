@@ -14,7 +14,8 @@
                 "sapse.vscode-cds",
                 "sapse.vsc-extension-odata-csdl-modeler",
                 "sapse.vscode-wing-cds-editor-vsc",
-                "saposs.xml-toolkit"
+                "saposs.xml-toolkit",
+                "humao.rest-client"
             ]
         }
     },
